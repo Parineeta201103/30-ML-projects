@@ -1,0 +1,49 @@
+# 🔢 Day 03 - KNN: Digit Classification with scikit-learn
+
+This project uses the **K-Nearest Neighbors (KNN)** algorithm to classify handwritten digits from the popular **Digits dataset** built into `scikit-learn`.
+
+---
+
+## 🗂 Dataset Info
+
+- **Source**: `sklearn.datasets.load_digits()`
+- 1,797 grayscale images
+- Each image is 8×8 pixels (flattened to 64 features)
+- 10 classes (digits 0 through 9)
+
+---
+
+## ⚙️ Model Info
+
+- **Algorithm**: K-Nearest Neighbors (KNN)
+- **Library**: scikit-learn
+- **Parameters**: `n_neighbors=3`
+- **Train/Test Split**: 80/20
+
+---
+
+## 📈 Evaluation Metrics
+
+- **Accuracy**: e.g., 98%
+- **Precision, Recall, F1-score** per class
+- **Confusion Matrix**
+
+---
+
+## 📊 Visualizations
+
+- ✅ Sample digit images with predictions
+- ✅ Confusion matrix heatmap
+
+---
+
+## 🧠 Learnings
+
+- Understood how KNN classifies based on proximity in feature space
+- Saw how it performs really well on image classification with little tuning
+- Learned about multiclass classification and evaluation
+
+---
+
+## 📁 Folder Contents
+
