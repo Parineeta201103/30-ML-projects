@@ -4,7 +4,7 @@
 
 - [x] [Day 01 - Linear Regression: House Price Prediction]([./Day%2001%20-%20Linear%20Regression](https://colab.research.google.com/gist/Parineeta201103/b7d31595fdd1b680c0414ff6e21c2fde/copy-of-welcome-to-colab.ipynb))
 - [x] [Day 02 - Logistic Regression: Iris Classification](./Day%2002%20-%20Logistic%20Regression)
-- [ ] [Day 03 - KNN: Digit Classifier (MNIST)](./Day%2003%20-%20KNN)
+- [x] [Day 03 - KNN: Digit Classifier (MNIST)](./Day%2003%20-%20KNN)
 - [ ] [Day 04 - Decision Tree: Student Result Predictor](./Day%2004%20-%20Decision%20Tree)
 - [ ] [Day 05 - Random Forest: Titanic Survival Prediction](./Day%2005%20-%20Random%20Forest)
 - [ ] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
