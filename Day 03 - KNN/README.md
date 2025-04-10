@@ -71,7 +71,7 @@ K-Nearest Neighbors (KNN) is a simple but powerful algorithm based on the idea o
 - Understood how KNN uses distance to classify instances
 - Learned about performance trade-offs with different `k` values the greater the value of 'k' higher the bias , and the lesser the value of 'k' less the bias so we have to find a perfect value of k so that our model do not overfit or underfit.
 - Explored evaluation of multiclass classification models
-
+-understood the working of knn
 ---
 ### 🔜 Up Next
 
