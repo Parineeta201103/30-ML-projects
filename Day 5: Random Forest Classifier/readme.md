@@ -47,9 +47,7 @@ The dataset contains information about:
 - Used a **Random Forest Classifier** to build the predictive model.
 - Split the data into training and testing sets (80% train, 20% test).
 - Evaluated model performance using:
-  - **Accuracy**: 92%
-  - **Confusion Matrix**: Good classification performance with no class imbalance.
-  - **ROC Curve**: AUC of 0.90, indicating excellent model discrimination.
+  - **Accuracy**: 73%
 
 ### **5. Key Visualizations**:
 - **Treatment vs. No Treatment**: A bar plot showing the distribution of treatment-seeking vs non-treatment-seeking individuals.
