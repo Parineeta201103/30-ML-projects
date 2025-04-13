@@ -7,7 +7,7 @@
 - [x] [Day 03 - KNN: Digit Classifier (MNIST)](./Day%2003%20-%20KNN)
 - [x] [Day 04 - Decision Tree: Student Result Predictor](./Day%2004%20-%20Decision%20Tree)
 - [x] [Day 5: Random Forest Classifier – Mental Health in Tech Survey](./Day%2005%20-%20Random%20Forest)
-- [ ] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
+- [x] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
 - [ ] [Day 07 - Naive Bayes: Email Spam Detection](./Day%2007%20-%20Naive%20Bayes)
 - [ ] [Day 08 - KMeans: Customer Segmentation](./Day%2008%20-%20KMeans)
 - [ ] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
