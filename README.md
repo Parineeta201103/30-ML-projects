@@ -6,7 +6,7 @@
 - [x] [Day 02 - Logistic Regression: Iris Classification](./Day%2002%20-%20Logistic%20Regression)
 - [x] [Day 03 - KNN: Digit Classifier (MNIST)](./Day%2003%20-%20KNN)
 - [x] [Day 04 - Decision Tree: Student Result Predictor](./Day%2004%20-%20Decision%20Tree)
-- [x] [Day 5 - Random Forest Classifier: Mental Health in Tech Survey](./Day%2005%20-%20Random%20Forest)
+- [x] [Day 5 - Random Forest Classifier: Mental Health in Tech Survey](https://github.com/Parineeta201103/30-ML-projects/tree/7e94fb08d717f4c07d061615889e8a860ca805e7/Day%205%3A%20Random%20Forest%20Classifier)
 - [x] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
 - [ ] [Day 07 - Naive Bayes: Email Spam Detection](./Day%2007%20-%20Naive%20Bayes)
 - [ ] [Day 08 - KMeans: Customer Segmentation](./Day%2008%20-%20KMeans)
