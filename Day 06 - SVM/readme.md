@@ -1,4 +1,11 @@
-#we did 
+# **Day 6 - Support Vector Machine (SVM) for Breast Cancer Classification**
+
+## **Objective:**
+In this project, we will build a **Support Vector Machine (SVM)** model to classify breast cancer data into two categories: malignant and benign tumors.
+
+## **Dataset:**
+We will use the **Breast Cancer Wisconsin (Diagnostic) dataset**. This dataset contains 30 features, including characteristics of the cell nuclei present in breast cancer biopsies. The goal is to classify tumors based on these features.
+
 🎯 What is SVM?
 Support Vector Machines are supervised machine learning algorithms used for classification (and sometimes regression). The goal of an SVM is to find a decision boundary (or hyperplane) that best separates the data into different classes.
 
