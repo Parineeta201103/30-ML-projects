@@ -51,6 +51,7 @@ Struggles when features are correlated or dependent
 - **Dataset:** SMS Spam Collection
 - **Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 - Each entry is labeled as `spam` or `ham`, along with the message text.
+- web page:](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection)
 
 ## 🔧 Techniques Used
 - Text preprocessing (lowercasing, removing punctuation, stopwords)
