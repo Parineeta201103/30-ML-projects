@@ -10,7 +10,7 @@
 - [x] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
 - [ ] [Day 07 - Naive Bayes: Email Spam Detection](./Day%2007%20-%20Naive%20Bayes)
 - [ ] [Day 08 - KMeans: Customer Segmentation](./Day%2008%20-%20KMeans)
-- [ ] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
+- [x] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
 - [ ] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
 
 - [ ] [Day 11 - Car Price Prediction (Regression)](./Day%2011%20-%20Car%20Price%20Prediction)
