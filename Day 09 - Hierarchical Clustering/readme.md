@@ -70,9 +70,3 @@ Hierarchical Clustering builds a **tree of clusters**:
 - How to interpret a **dendrogram** and form clusters from it.
 - Application of clustering in **policy-making and global analysis**.
 
----
-
-### 🧮 Run It Yourself
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-
