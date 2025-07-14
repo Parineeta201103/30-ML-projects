@@ -11,7 +11,7 @@
 - [ ] [Day 07 - Naive Bayes: Email Spam Detection](./Day%2007%20-%20Naive%20Bayes)
 - [x] [Day 08 - Detect fake news with PassiveAggressiveClassifier and TF-IDF Vectorisor](https://github.com/Parineeta201103/30-ML-projects/tree/4ac13165098395859f85a83457e7f14c96f5c493/Day%2008%20-%20PassiveAggresssiveClassifier)
 - [x] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
-- [ ] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
+- [x] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
 
 - [ ] [Day 11 - Car Price Prediction (Regression)](./Day%2011%20-%20Car%20Price%20Prediction)
 - [ ] [Day 12 - Startup Profit Prediction](./Day%2012%20-%20Startup%20Profit%20Prediction)
