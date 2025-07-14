@@ -20,17 +20,4 @@ To reduce the dimensionality of the Wine dataset using PCA and visualize the cla
 ## 💡 Why PCA?
 - Helps in visualizing complex high-dimensional data
 - Reduces computational cost and risk of overfitting
-- Great for EDA and preprocessing before model building
-
-## 📌 Visualization
-
-### 2D PCA Scatter Plot
-_(Insert plot here or markdown image link)_
-
-### Explained Variance Plot
-_(Insert plot here or markdown image link)_
-
-## 📁 Files Included
-- `pca_wine.ipynb` – Jupyter Notebook with code and plots
-- `README.md` – Project overview
-
+- Great for EDA and preprocessing before model building.
