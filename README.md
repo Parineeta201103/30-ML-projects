@@ -9,7 +9,7 @@
 - [x] [Day 5 - Random Forest Classifier: Mental Health in Tech Survey](https://github.com/Parineeta201103/30-ML-projects/tree/7e94fb08d717f4c07d061615889e8a860ca805e7/Day%205%3A%20Random%20Forest%20Classifier)
 - [x] [Day 06 - SVM: Cancer Detection](./Day%2006%20-%20SVM)
 - [ ] [Day 07 - Naive Bayes: Email Spam Detection](./Day%2007%20-%20Naive%20Bayes)
-- [ ] [Day 08 - KMeans: Customer Segmentation](./Day%2008%20-%20KMeans)
+- [ ] [Day 08 - Detect fake news with PassiveAggressiveClassifier and TF-IDF Vectorisor](./Day%2008%20-%20KMeans)
 - [x] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
 - [ ] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
 
