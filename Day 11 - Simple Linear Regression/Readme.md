@@ -15,7 +15,7 @@ Predict the **average daily temperature** using past weather data, with the aim 
 ## 🧾 Dataset Information
 
 **Dataset Name:** City Temperature Dataset  
-**Source:** [Kaggle – Daily Temperature of Major Cities](https://www.kaggle.com/datasets/sumanthvrao/daily-temperature-of-major-cities)
+**Source:** [Kaggle]
 
 ### 📊 Features in the dataset include:
 
