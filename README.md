@@ -13,7 +13,7 @@
 - [x] [Day 09 - Hierarchical Clustering: Country Clustering](./Day%2009%20-%20Hierarchical%20Clustering)
 - [x] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
 
-- [ ] [Day 11 - Car Price Prediction (Regression)](./Day%2011%20-%20Car%20Price%20Prediction)
+- [ ] [Day 11 - Weather Temperature Prediction Using SLR
 - [ ] [Day 12 - Startup Profit Prediction](./Day%2012%20-%20Startup%20Profit%20Prediction)
 - [ ] [Day 13 - Weather Temperature Forecasting](./Day%2013%20-%20Weather%20Prediction)
 - [ ] [Day 14 - CO₂ Emissions Prediction](./Day%2014%20-%20CO2%20Prediction)
