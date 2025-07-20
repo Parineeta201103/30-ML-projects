@@ -67,5 +67,5 @@ The dataset contains information about:
   - **Age**: Individuals aged 30-50 are more likely to seek treatment than younger individuals.
   - **Work Interference**: Those who report that mental health issues interfere with their work are more likely to seek treatment.
   - **Family History**: Respondents with a family history of mental illness are more likely to seek treatment.
-- The model performed well with an accuracy of 92%, and the ROC curve suggests strong classification ability.
+ - The model performed well with an accuracy of 92%, and the ROC curve suggests strong classification ability.
 
