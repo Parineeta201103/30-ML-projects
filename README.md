@@ -14,7 +14,7 @@
 - [x] [Day 10 - PCA: Wine Dataset Visualization](./Day%2010%20-%20PCA)
 
 - [x] [Day 11 - Weather Temperature Prediction Using SLR](https://github.com/Parineeta201103/30-ML-projects/tree/c99fa5da70ef65a9e14d39ac96a8a216292b352c/Day%2011%20-%20Simple%20Linear%20Regression)
-- [x] [Day 12 - Movie Recommender System using Colaborative filtering](./Day%2012%20-%20Startup%20Profit%20Prediction)
+- [x] [Day 12 - Movie Recommender System using Colaborative filtering](https://github.com/Parineeta201103/30-ML-projects/tree/85d6a60d2f4cf4f535517719f3493ea479afe403/Day%2012%20-%20Collaborative%20filtering)
 - [x] [Day 13 - Flight customer satisfaction prediction usin GBM](https://github.com/Parineeta201103/30-ML-projects/tree/f3fa7fc21bd531d4d853684832ef98e8809bd13d/Day%2013%20-%20Gradient%20Boosting%20Machine)
 - [ ] [Day 14 - CO₂ Emissions Prediction](./Day%2014%20-%20CO2%20Prediction)
 - [ ] [Day 15 - Life Expectancy Predictor](./Day%2015%20-%20Life%20Expectancy)
